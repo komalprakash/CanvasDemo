@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    font-family: "Open sans";
+    font-size: 14px;
+}
+.coordinates {
+  width: 20px;
+  padding: 2px;
+  border: 2px solid gray;
+  margin: 2;
+}
